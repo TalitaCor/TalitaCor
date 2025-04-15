@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+    padding: 30px;
+    margin: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .info, .grafico {
+    background: rgb(1, 6, 112);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .grafico pre {
+    background: #080457;
+    padding: 10px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: monospace;
+  }
+  
